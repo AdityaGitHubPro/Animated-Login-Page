@@ -125,3 +125,15 @@ button{
 .register p a:hover{
     text-decoration: underline;
 }
+
+footer{
+    background: url('fantasywallpaper.jpg')no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    padding: 0 35px 0 5px;
+    color: #000;
+    text-align: center;
+}
